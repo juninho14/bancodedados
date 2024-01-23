@@ -10,4 +10,32 @@ LINHA OU TUPLA = REGISTRO
 
 COLUNA OU ENTIDADE
 
+# Trabalhando com mysql
+##conctando
+mysql -h localhost -u root
+
+## -h ##
+computador que vai conectar
+
+## -u ##
+o usuario
+
+## show databases; ##
+mostrar dados 
+
+## drop databases ## 
+apaga linha do banco de dados
+
+## creat table ##
+criar tabelas 
+
+## desc ##
+nome da tabela
+
+## show table ## 
+exibe a tabela
+
+## drop ##
+exclui o banco de dados 
+
 
