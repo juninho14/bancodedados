@@ -38,4 +38,8 @@ exibe a tabela
 ## drop ##
 exclui o banco de dados 
 
+conectar no servidor de banco de dados:
+`mysql -h localhost -u`
 
+mostrar todos os bancos de dados do servidor:
+`show databases;`
