@@ -43,3 +43,16 @@ conectar no servidor de banco de dados:
 
 mostrar todos os bancos de dados do servidor:
 `show databases;`
+
+
+# comandos SQL
+## DDL
+- `create database nome_do_banco`
+- `show databases`
+- `create table nome_da_tabela`
+- `show tables`
+- `desc nome_da_tabela`
+
+## DML MANIPULAÇÃO DE DADOS 
+- select * from nome_da_tabela 
+- insert info nome_da_tabela(campo1)
